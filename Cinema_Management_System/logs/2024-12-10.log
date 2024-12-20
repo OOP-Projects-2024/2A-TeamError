@@ -1,0 +1,55 @@
+2024-12-10 09:13:24,payments_tbl,testrich,POST
+2024-12-10 09:20:39,payments_tbl,testrich,POST
+2024-12-10 09:31:23,payments_tbl,testrich,POST
+2024-12-10 09:33:56,payments_tbl,testrich,POST
+2024-12-10 09:35:38,payments_tbl,testrich,POST
+2024-12-10 09:37:03,payments_tbl,testrich,POST
+2024-12-10 09:40:49,payments_tbl,testrich,POST
+2024-12-10 09:40:50,payments_tbl,testrich,POST
+2024-12-10 09:40:50,payments_tbl,testrich,POST
+2024-12-10 09:45:48,payments_tbl,testrich,POST
+2024-12-10 09:49:14,payments_tbl,testrich,POST
+2024-12-10 09:56:11,payments_tbl,testrich,POST
+2024-12-10 10:09:29,payments_tbl,testrich,POST
+2024-12-10 11:40:56,payments_tbl,testrich,POST
+2024-12-10 11:40:57,payments_tbl,testrich,POST
+2024-12-10 11:41:54,payments_tbl,testrich,POST
+2024-12-10 11:41:55,payments_tbl,testrich,POST
+2024-12-10 11:41:55,payments_tbl,testrich,POST
+2024-12-10 11:42:12,payments_tbl,testrich,POST
+2024-12-10 11:42:13,payments_tbl,testrich,POST
+2024-12-10 11:43:15,payments_tbl,testrich,POST
+2024-12-10 11:43:21,payments_tbl,testrich,POST
+2024-12-10 11:43:26,payments_tbl,testrich,POST
+2024-12-10 11:43:35,payments_tbl,testrich,POST
+2024-12-10 11:43:40,payments_tbl,testrich,POST
+2024-12-10 11:43:43,payments_tbl,testrich,POST
+2024-12-10 11:43:45,payments_tbl,testrich,POST
+2024-12-10 11:44:17,payments_tbl,testrich,POST
+2024-12-10 11:44:18,payments_tbl,testrich,POST
+2024-12-10 11:44:18,payments_tbl,testrich,POST
+2024-12-10 11:45:04,payments_tbl,testrich,POST
+2024-12-10 11:45:22,payments_tbl,testrich,POST
+2024-12-10 11:45:47,payments_tbl,testrich,POST
+2024-12-10 11:47:08,payments_tbl,testrich,POST
+2024-12-10 11:49:51,payments_tbl,testrich,POST
+2024-12-10 11:51:14,payments_tbl,testrich,POST
+2024-12-10 11:53:46,payments_tbl,testrich,POST
+2024-12-10 11:56:33,payments_tbl,testrich,POST
+2024-12-10 11:56:44,payments_tbl,testrich,POST
+2024-12-10 11:56:52,payments_tbl,testrich,POST
+2024-12-10 11:58:21,payments_tbl,testrich,POST
+2024-12-10 11:58:21,payments_tbl,testrich,POST
+2024-12-10 11:58:22,payments_tbl,testrich,POST
+2024-12-10 11:58:23,payments_tbl,testrich,POST
+2024-12-10 11:58:23,payments_tbl,testrich,POST
+2024-12-10 11:58:24,payments_tbl,testrich,POST
+2024-12-10 20:48:56,POST,testrich,Created a new Price
+2024-12-10 20:49:44,POST,testrich,Created a new Price
+2024-12-10 20:51:30,POST,testrich,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'movie_name' in 'field list'
+2024-12-10 20:54:11,POST,testrich,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'clasification' in 'field list'
+2024-12-10 20:54:30,POST,testrich,Created a new Record
+2024-12-10 21:35:21,POST,testrich,Created a new Price
+2024-12-10 21:51:09,payments_tbl,testrich,POST
+2024-12-10 21:51:14,payments_tbl,testrich,POST
+2024-12-10 21:51:25,payments_tbl,testrich,POST
